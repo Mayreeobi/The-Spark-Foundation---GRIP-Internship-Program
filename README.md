@@ -9,7 +9,7 @@ This repository contains the tasks that I completed while working as an intern f
  
 
 ## Task 3 : To Explore Business Analytics - Retail (Level - Beginner)
-Please click [here]()  to view my solution on youtube.
+Please click [here](https://youtu.be/DFtwF2BDBV8)  to view my solution on youtube
 
 *  Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
 *  As a business manager, try to find out the weak areas where you can work to make more profit.
